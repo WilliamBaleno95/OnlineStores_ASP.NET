@@ -1,0 +1,29 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+.a_nav {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:17px;
+}
+
+.new_container{
+    margin-left:25%;
+    margin-right:25%;
+}
